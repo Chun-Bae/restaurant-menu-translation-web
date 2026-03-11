@@ -1,3 +1,5 @@
+> 📂 **관광 식당 메뉴판 번역 프로젝트** — [📱 App](https://github.com/Chun-Bae/restaurant-menu-translation-app) · **🖥️ Web** · [🔧 API](https://github.com/Chun-Bae/restaurant-menu-translation-api) · [🔍 OCR Model](https://github.com/Chun-Bae/restaurant-menu-translation-ocr-model) · [🌐 Translate Model](https://github.com/Chun-Bae/restaurant-menu-translation-translate-model)
+
 # 🖥️ Web Frontend — 번역 결과 시각화
 
 > **반응형 메뉴판 번역 결과 대시보드 (Next.js 14)**
